@@ -1,6 +1,6 @@
-# Laravel 10 + AdminLTE 3
+# Toko Listrik Makmur
 
-AdminLTE 3 for Laravel 10.
+<!-- AdminLTE 3 for Laravel 10.
 
 | Laravel Version | Branch |
 |:---------------:|:------:|
@@ -50,4 +50,4 @@ Laravel AdminLTE 3 uses some open-source third-party libraries/packages, many th
 
 ## License
 
-Licensed under the MIT license.
+Licensed under the MIT license. -->
